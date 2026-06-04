@@ -11,6 +11,7 @@ from typing import Any
 
 import httpx
 from astrbot.api import AstrBotConfig, logger
+from astrbot.core.utils.astrbot_path import get_astrbot_data_path
 from astrbot.api.event import AstrMessageEvent, filter
 from astrbot.api.star import Context, Star, StarTools, register
 import astrbot.api.message_components as Comp
