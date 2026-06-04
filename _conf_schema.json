@@ -1,0 +1,14 @@
+{
+  "cdp_url": {
+    "description": "CDP浏览器地址",
+    "type": "string",
+    "default": "http://127.0.0.1:9222",
+    "hint": "Chrome DevTools Protocol 地址"
+  },
+  "cdn_base": {
+    "description": "CDN图片基础地址",
+    "type": "string",
+    "default": "https://zrocdn.xyz",
+    "hint": "nhentai图片CDN地址"
+  }
+}

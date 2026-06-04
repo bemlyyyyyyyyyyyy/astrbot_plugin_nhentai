@@ -1,0 +1,9 @@
+name: nhentai
+display_name: nhentai 下载器
+desc: nhentai 搜索下载插件 - 支持搜索、下载nhentai的本子，基于CDP浏览器和nhentai API
+version: v1.0.0
+author: Bemly
+repo: https://github.com/bemlyyyyyyyyyyyy/astrbot_plugin_nhentai
+astrbot_version: ">=4.16"
+support_platforms:
+  - aiocqhttp
